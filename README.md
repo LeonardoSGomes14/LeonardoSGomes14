@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm Leonardo Gomes from Brazil.<br><br>- 🔭 I’m student <br>- 📚 I'm currently learning Java and MySQL<br>- ⚡ In my free time I play games</p>
+<p align="left">I'm Leonardo Gomes from Brazil.<br><br>- 🔭 I’m student <br>- 📚 I'm currently learning Java and MySQL<br>- ⚡ In my free time I play racing games</p>
 
 ###
 
